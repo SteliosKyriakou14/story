@@ -1,0 +1,6 @@
+git init
+git status
+git add filename.filetype (adds a file to commit)
+git add . (adds all files to commit) 
+git commit -m "commit message" (e.g "Complete filename")
+git log (to see commits)
